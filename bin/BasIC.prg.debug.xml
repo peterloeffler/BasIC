@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="8" lineNum="14" pc="268435531" symbol="initialize"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="8" lineNum="15" pc="268435535" symbol="initialize"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="9" lineNum="19" pc="268435554" symbol="onLayout"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="9" lineNum="20" pc="268435558" symbol="onLayout"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="9" lineNum="23" pc="268435595" symbol="onLayout"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="10" lineNum="29" pc="268435639" symbol="onShow"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="33" pc="268435644" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="35" pc="268435648" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="37" pc="268435668" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="38" pc="268435687" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="40" pc="268435706" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="42" pc="268435706" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="43" pc="268435720" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="44" pc="268435734" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="46" pc="268435748" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="47" pc="268435762" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="48" pc="268435776" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="49" pc="268435790" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="50" pc="268435804" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="52" pc="268435818" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="53" pc="268435832" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="54" pc="268435846" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="55" pc="268435861" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="58" pc="268435868" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="70" pc="268435937" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="61" pc="268435943" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="62" pc="268435950" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="66" pc="268435953" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="67" pc="268435960" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="74" pc="268435966" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="75" pc="268435982" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="76" pc="268435989" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="77" pc="268436007" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="78" pc="268436027" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="82" pc="268436070" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="83" pc="268436083" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="84" pc="268436087" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="85" pc="268436098" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="86" pc="268436102" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="87" pc="268436113" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="90" pc="268436123" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="91" pc="268436139" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="94" pc="268436184" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="95" pc="268436191" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="96" pc="268436207" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="97" pc="268436244" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="98" pc="268436281" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="99" pc="268436318" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="102" pc="268436355" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="104" pc="268436362" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="105" pc="268436378" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="107" pc="268436412" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="108" pc="268436428" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="110" pc="268436462" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="111" pc="268436478" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="113" pc="268436512" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="114" pc="268436528" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="117" pc="268436562" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="118" pc="268436578" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="121" pc="268436612" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="122" pc="268436628" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="123" pc="268436635" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="124" pc="268436674" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="127" pc="268436704" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="128" pc="268436720" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="131" pc="268436754" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="132" pc="268436770" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="133" pc="268436777" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="134" pc="268436837" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="137" pc="268436867" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="11" lineNum="138" pc="268436883" symbol="onUpdate"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="12" lineNum="144" pc="268436918" symbol="onHide"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="13" lineNum="148" pc="268436923" symbol="onExitSleep"/>
+<entry filename="/home/pel/eclipse-workspace/BasIC/source/BasICView.mc" id="14" lineNum="152" pc="268436928" symbol="onEnterSleep"/>
+<entry filename="Rez" id="32" lineNum="21" pc="268437912" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="21" method="true" symbol="&lt;globals/BasICView/&lt;&gt;getSteps&gt;"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="17" method="true" symbol="&lt;globals/BasICView/&lt;&gt;getDate&gt;"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="9" object="true" symbol="BasICApp"/>
+<entry field="true" id="10" symbol="gIconsFont"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="23" method="true" symbol="&lt;globals/BasICView/&lt;&gt;getCalories&gt;"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="22" method="true" symbol="&lt;globals/BasICView/&lt;&gt;getFloors&gt;"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="11" object="true" symbol="BasICView"/>
+<entry id="20" method="true" symbol="&lt;globals/BasICView/&lt;&gt;getBattery&gt;"/>
+<entry id="19" method="true" symbol="&lt;globals/BasICView/&lt;&gt;getMinute&gt;"/>
+<entry field="true" id="8389714" symbol="INVALID_HR_SAMPLE"/>
+<entry id="24" method="true" symbol="&lt;globals/BasICView/&lt;&gt;getHeartrate&gt;"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry id="26" method="true" symbol="&lt;globals/BasICView/&lt;&gt;msCoord&gt;"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="25" method="true" symbol="&lt;globals/BasICView/&lt;&gt;retrieveHeartrateText&gt;"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="27" method="true" symbol="&lt;globals/BasICView/&lt;&gt;hrCoord&gt;"/>
+<entry field="true" id="15" symbol="IconsFont"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="18" method="true" symbol="&lt;globals/BasICView/&lt;&gt;getHour&gt;"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435639" name="dc" stackId="1" startPc="268435554"/>
+<entry endPc="268436057" name="marker" stackId="19" startPc="268436007"/>
+<entry endPc="268436070" name="minutes" stackId="18" startPc="268436007"/>
+<entry endPc="268436917" name="textLeft" stackId="5" startPc="268435648"/>
+<entry endPc="268436917" name="hourDotSize" stackId="24" startPc="268435648"/>
+<entry endPc="268436917" name="fontBig" stackId="14" startPc="268435648"/>
+<entry endPc="268436917" name="hour" stackId="25" startPc="268435648"/>
+<entry endPc="268436917" name="yellow" stackId="10" startPc="268435648"/>
+<entry endPc="268436917" name="red" stackId="12" startPc="268435648"/>
+<entry endPc="268436917" name="textCenter" stackId="7" startPc="268435648"/>
+<entry endPc="268436917" name="white" stackId="9" startPc="268435648"/>
+<entry endPc="268436917" name="textRight" stackId="6" startPc="268435648"/>
+<entry endPc="268436917" name="fontBigHight" stackId="15" startPc="268435648"/>
+<entry endPc="268436917" name="green" stackId="11" startPc="268435648"/>
+<entry endPc="268436917" name="fontLarge" stackId="13" startPc="268435648"/>
+<entry endPc="268436917" name="batteryStateColor" stackId="21" startPc="268435648"/>
+<entry endPc="268436917" name="minute" stackId="23" startPc="268435648"/>
+<entry endPc="268436917" name="minuteDotSize" stackId="22" startPc="268435648"/>
+<entry endPc="268436917" name="fontBigHightOffset" stackId="16" startPc="268435648"/>
+<entry endPc="268436917" name="batteryState" stackId="20" startPc="268435648"/>
+<entry endPc="268436917" name="transparent" stackId="8" startPc="268435648"/>
+<entry endPc="268436917" name="center" stackId="2" startPc="268435648"/>
+<entry endPc="268436917" name="fiveMinuteMakerSize" stackId="17" startPc="268435648"/>
+<entry endPc="268436917" name="middle" stackId="3" startPc="268435648"/>
+<entry endPc="268436917" name="xOffset" stackId="4" startPc="268435648"/>
+<entry endPc="268436918" name="dc" stackId="1" startPc="268435644"/>
+<entry endPc="268437030" name="date" stackId="3" startPc="268436937"/>
+<entry endPc="268437030" name="now" stackId="2" startPc="268436937"/>
+<entry endPc="268437030" name="tFormat" stackId="1" startPc="268436937"/>
+<entry endPc="268437084" name="hour" stackId="1" startPc="268437035"/>
+<entry endPc="268437138" name="minute" stackId="1" startPc="268437089"/>
+<entry endPc="268437169" name="battery" stackId="1" startPc="268437143"/>
+<entry endPc="268437209" name="steps" stackId="1" startPc="268437174"/>
+<entry endPc="268437249" name="floors" stackId="1" startPc="268437214"/>
+<entry endPc="268437289" name="calories" stackId="1" startPc="268437254"/>
+<entry endPc="268437342" name="heartrate" stackId="1" startPc="268437294"/>
+<entry endPc="268437464" name="heartrateIterator" stackId="2" startPc="268437347"/>
+<entry endPc="268437464" name="lastMinute" stackId="1" startPc="268437347"/>
+<entry endPc="268437464" name="currentHeartrate" stackId="3" startPc="268437347"/>
+<entry endPc="268437683" name="degree" stackId="4" startPc="268437469"/>
+<entry endPc="268437683" name="coord" stackId="3" startPc="268437469"/>
+<entry endPc="268437684" name="hlen" stackId="2" startPc="268437465"/>
+<entry endPc="268437684" name="val" stackId="1" startPc="268437465"/>
+<entry endPc="268437911" name="degree" stackId="6" startPc="268437688"/>
+<entry endPc="268437911" name="val" stackId="5" startPc="268437688"/>
+<entry endPc="268437911" name="coord" stackId="4" startPc="268437688"/>
+<entry endPc="268437912" name="mval" stackId="2" startPc="268437684"/>
+<entry endPc="268437912" name="hval" stackId="1" startPc="268437684"/>
+<entry endPc="268437912" name="hlen" stackId="3" startPc="268437684"/>
+<entry endPc="268437925" name="dc" stackId="1" startPc="268437912"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="BasICApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="BasICApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="BasICApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="BasICApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="BasICView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="BasICView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;getDate&gt;" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;getHour&gt;" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;getMinute&gt;" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;getBattery&gt;" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;getSteps&gt;" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;getFloors&gt;" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;getCalories&gt;" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;getHeartrate&gt;" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;retrieveHeartrateText&gt;" parent="BasICView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;msCoord&gt;" parent="BasICView">
+<param id="val"/>
+<param id="hlen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/BasICView/&lt;&gt;hrCoord&gt;" parent="BasICView">
+<param id="hval"/>
+<param id="mval"/>
+<param id="hlen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="174" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="253" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="292" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="323" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="362" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="393" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="432" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="471" parentId="globals" symbolId="BasICApp" type="class"/>
+<dataEntry offset="542" parentId="globals" symbolId="BasICView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
